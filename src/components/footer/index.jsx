@@ -1,7 +1,7 @@
 export const Footer = () => {
     return(
-       <div>
-            Desenvolvido por Pauloh
-       </div>
+        <footer className="rodape">
+            <p>Desenvolvido por: pauloh</p>
+        </footer>
     )
 }
